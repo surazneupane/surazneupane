@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=surazneupane&show_icons=true&line_height=27&include_all_commits=true&theme=dracula%22 alt="My github stats" />
-  </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=surazneupane&show_icons=true&line_height=27&include_all_commits=true&theme=dracula%22 alt="My github stats"/></a>
